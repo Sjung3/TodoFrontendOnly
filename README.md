@@ -1,5 +1,6 @@
 # TodoFrontendOnly
-Exam project in Frontend course @Teknikhögskolan. 
+Exam project in Frontend course @Teknikhögskolan. <br>
+Created March 2020.
 
 ## Criterias for exam project
 Build a frontend similare to http://todomvc.com/examples/typescript-backbone/, including its functionalities.
